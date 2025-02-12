@@ -1,7 +1,7 @@
 //register_screen.dart
 import 'package:flutter/material.dart';
 
-import 'login_screen.dart';
+import 'loging_screen.dart';
 
 class RegisterScreen extends StatefulWidget {
   const RegisterScreen({super.key});
